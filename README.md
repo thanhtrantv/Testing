@@ -13,7 +13,7 @@
 *			https://www.skaffolder.com
 *
 *
-* You can generate the code from the command-line
+* You can generate the code from the command-line123
 *       https://npmjs.com/package/skaffolder-cli
 *
 *       npm install -g skaffodler-cli
